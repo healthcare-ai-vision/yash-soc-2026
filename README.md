@@ -7,5 +7,5 @@ Week-1 contains a report pdf about:
 Week-2 conatins:
 - i) A jupyter file containing two images(one natural and one X-ray image). And various data-imaging processes like greyscale-version, applying filters, edge detection were applied.
 - ii) Contains a Summary report on Dataset-analysis of two types of Image subsets
-## Week-3 and Week-4(going on)
-Week-3 is about learning to train models in python using ultralyrics software to classify and detect object.
+## Week-3 and Week-4
+This timeline contains a jupyter file which contains a trained model for detecting cars in an image. The training was done using Vehicle images dataset from kaggle and trained using ultralytics YOLO-v8 architecture.
