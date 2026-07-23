@@ -19,4 +19,5 @@ The problem statement of the final Endterm Project is about Training a Classific
 - vi) Dermatofibromea (DF)
 - vii) Vascular lesion (VASC)
 - viii) Squamous Cell Carcinoma (SCC)
+
 The project file at end also predicts several accuracy and data loss scores at end.
